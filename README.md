@@ -1,4 +1,4 @@
-# excel-formula1
+# excel-formula's
 Excel practice with Xloopup, countifs
 See files attached for some simple practice with Excel formula's
 
